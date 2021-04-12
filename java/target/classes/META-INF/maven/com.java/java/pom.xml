@@ -31,6 +31,33 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+		<dependency>
+		    <groupId>com.google.guava</groupId>
+		    <artifactId>guava</artifactId>
+		    <version>23.0</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/com.oath.cyclops/cyclops -->
+		<dependency>
+		    <groupId>com.oath.cyclops</groupId>
+		    <artifactId>cyclops</artifactId>
+		    <version>10.0.1</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/net.karneim/pojobuilder -->
+		<dependency>
+		    <groupId>net.karneim</groupId>
+		    <artifactId>pojobuilder</artifactId>
+		    <version>3.2.0</version>
+		    <scope>provided</scope>
+		</dependency>
+		
+		
+		
+		
+		
 	</dependencies>
 
 	<build>
