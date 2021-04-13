@@ -59,8 +59,21 @@
 		    <artifactId>swagger-annotations</artifactId>
 		    <version>1.5.0</version>
 		</dependency>
-
 		
+		<!-- https://mvnrepository.com/artifact/fr.xebia.extras/selma-processor -->
+		<dependency>
+		    <groupId>fr.xebia.extras</groupId>
+		    <artifactId>selma-processor</artifactId>
+		    <version>1.0</version>
+		    <scope>provided</scope>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/fr.xebia.extras/selma -->
+		<dependency>
+		    <groupId>fr.xebia.extras</groupId>
+		    <artifactId>selma</artifactId>
+		    <version>0.1</version>
+		</dependency>
 		
 	</dependencies>
 
